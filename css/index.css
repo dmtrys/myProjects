@@ -15,10 +15,15 @@ body{
 	text-align: center;
 }
 
+#reload_wrapper{
+	text-align: center;
+}
+
 #main_wrapper{
 	//border: 1px solid red;
 	background: #bbb;
 	width: 940px;
+	height: 320px;
 	margin: 0 auto;
 	border-radius: 10px;
 	margin-top: 10px;
@@ -37,8 +42,9 @@ body{
 	border: 1px solid #666;
 	background: #eee;
 	display:inline-block;
-	margin: 10px;
-	margin-right: 0;
+	margin: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 	text-align: center;
 	line-height: 298px;
 	font-size: 5em;

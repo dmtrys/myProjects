@@ -45,6 +45,7 @@ body{
 	color: #ff0000;
 	font-weight: bold;
 	border-radius: 10px;
+	cursor: pointer;
 }
 
 #cube_01, #cube_02, #cube_03{

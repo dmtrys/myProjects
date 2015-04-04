@@ -34,6 +34,7 @@ body{
 
 #inner_wrapper{
 	text-align: center;
+	line-height: 298px;
 }
 
 #cube_01,#cube_02, #cube_03{
@@ -66,4 +67,9 @@ body{
 
 #cube_03{
 	background-image: url('../images/cat_03.jpg');
+}
+
+#reload{
+	font-size: 2em;
+	display: none;
 }

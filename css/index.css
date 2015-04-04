@@ -1,0 +1,37 @@
+*{
+	margin:0;
+	padding: 0;
+	font-family: arial;
+}
+
+body{
+	background: #eeeeff;
+}
+
+#main_wrapper{
+	//border: 1px solid red;
+	background: #bbb;
+	width: 940px;
+	margin: 0 auto;
+	border-radius: 10px;
+	margin-top: 10px;
+	-webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+#cube_01,#cube_02, #cube_03{
+	width: 298px;
+	height: 298px;
+	border: 1px solid green;
+	background: #eee;
+	display:inline-block;
+	margin: 10px;
+	margin-right: 0;
+	text-align: center;
+	line-height: 298px;
+	font-size: 5em;
+	color: #ff0000;
+	font-weight: bold;
+	border-radius: 10px;
+}

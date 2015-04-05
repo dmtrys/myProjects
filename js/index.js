@@ -16,6 +16,9 @@ $( document ).ready(function() {
 		});
 	});
 	
+	$("#main_title").click(function() {
+		$( "#inner_wrapper" ).animate({ "left": "-=930px" }, 1000 );
+	});
 });
 
 function show(){
